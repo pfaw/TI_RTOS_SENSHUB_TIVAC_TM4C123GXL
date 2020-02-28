@@ -9,7 +9,8 @@
 
 Instructions:
   1) Open Code Composer Studio after downloading the zip
-  2) You click on projects then on the project extracted from the zip.
-  3) You copy it into your workplace
-  4) Clean and build
-  5) Have fun
+  2) You click on: projects -> Import CCS Projects
+  3) Click on the extracted project
+  4) Tick the box that says "Copy projects into workplace"
+  5) Clean and build
+  6) Have fun
