@@ -5,4 +5,11 @@
 - The project started from a code composer studio example. It had senshub working with the TM4C129g, uisng TI-RTOS.
   - I changed the pins used and changed the written API to what is used when using the TM4C123GXL MCU when using TI libraries as opposed      to when using the TM4C129g
 
-- You can use this project as a jump off point if you're using the TIVA C, senshub, and are aiming to use TI-RTOS as middleware in your project
+- You can use this project as a jump off point if you're using the TIVA C, senshub, and are aiming to use TI-RTOS as middleware in your project. If you have the hardware and connections made, the project does the initalizations necesary and the data should be read and printed to your console in Code Composer Studio.
+
+Instructions:
+  1) Open Code Composer Studio after downloading the zip
+  2) You click on projects then on the project extracted from the zip.
+  3) You copy it into your workplace
+  4) Clean and build
+  5) Have fun
